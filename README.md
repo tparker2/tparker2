@@ -1,3 +1,4 @@
+![MasterHead](https://www.smu.edu/-/media/Site/Cox/online-programs/blog/featured-images/graphical-representation-future-analytics.jpeg)
 <h1 align="center">Hi 👋, I'm Tia Parker</h1>
 <h3 align="center">An aspiring data analyst, interested in life sciences, pharmaceuticals and healthcare</h3>
 
