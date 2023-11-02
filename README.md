@@ -1,12 +1,13 @@
 ![MasterHead](https://www.smu.edu/-/media/Site/Cox/online-programs/blog/featured-images/graphical-representation-future-analytics.jpeg)
-<h1 align="center">Hi 👋, I'm Tia Parker</h1>
+<h1 align="center">Hi! I'm Tia Parker</h1>
 <h3 align="center">An aspiring data analyst, interested in life sciences, pharmaceuticals and healthcare</h3>
 
-- 🌱 I’m currently learning **how to confidently use python, SQL, Tableau, R, PowerBI and excel**
+- 🌱 I’m currently learning **how to confidently use Python, SQL, R and Tableau.**
 
 - 📫 How to reach me **tiaparker@hotmail.co.uk**
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/tia-parker2/
 <p align="left">
 </p>
 
