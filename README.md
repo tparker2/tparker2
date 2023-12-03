@@ -1,6 +1,6 @@
 ![MasterHead](https://www.smu.edu/-/media/Site/Cox/online-programs/blog/featured-images/graphical-representation-future-analytics.jpeg)
 <h1 align="center">👋 Hello, I'm Tia Parker - Clinical Analyst in the Making!</h1>
-<h3 align="center">📊 Data Enthusiast | 🐍 Python | 💾 SQL | 📈 Visualisations</h3>
+<h3 align="center">📊 Data Enthusiast | 🐍 Python | 💾 SQL | 📈 Visualisations | 📖 Data Reporting </h3>
 
 
 ### Current Focus:
@@ -17,9 +17,9 @@
 
 Let's connect, learn, and contribute to the transformative power of data in healthcare! 🌟
 
-- 📫 How to reach me **tiaparker@hotmail.co.uk**
-<h3 align="left">Connect with me:</h3>
-https://www.linkedin.com/in/tia-parker2/
+📫 How to reach me:
+-  **tiaparker@hotmail.co.uk**
+-  https://www.linkedin.com/in/tia-parker2/
 <p align="left">
 </p>
 
