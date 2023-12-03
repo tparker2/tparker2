@@ -1,12 +1,23 @@
 ![MasterHead](https://www.smu.edu/-/media/Site/Cox/online-programs/blog/featured-images/graphical-representation-future-analytics.jpeg)
-<h1 align="center">Hi! I'm Tia Parker</h1>
-<h3 align="center">An aspiring clinical analyst</h3>
+<h1 align="center">👋 Hello, I'm Tia Parker - Clinical Analyst in the Making!</h1>
+<h3 align="center">📊 Data Enthusiast | 🐍 Python | 💾 SQL | 📈 Visualisations</h3>
 
-- 🌱 I’m currently learning **how to confidently use Python, SQL, R (Tidyverse) and Tableau.**
+
+### Current Focus:
+- **Data Visualization:** Crafting compelling visual narratives with Power BI, Tableau, and ggplot in R to convey complex healthcare trends and patterns.
+- **Python Mastery:** Developing proficiency in Python for efficient data manipulation, analysis, and integration within the healthcare context.
+- **SQL Expertise:** Enhancing SQL skills to efficiently query and manage healthcare databases and datasets, ensuring robust data extraction and analysis.
+
+### Collaboration and Learning:
+- Actively seeking collaboration opportunities with fellow data enthusiasts, healthcare professionals, and experts in the field.
+- Dedicated to continuous learning, regularly updating my knowledge base with the latest advancements in healthcare analytics and data science.
+
+### Connect with Me:
+- Reach out if you share a passion for healthcare data analytics or if you're interested in collaborating on projects that make a meaningful impact on clinical outcomes.
+
+Let's connect, learn, and contribute to the transformative power of data in healthcare! 🌟
 
 - 📫 How to reach me **tiaparker@hotmail.co.uk**
-
-*Portfolio is currently under construction! Will be back online ASAP
 <h3 align="left">Connect with me:</h3>
 https://www.linkedin.com/in/tia-parker2/
 <p align="left">
