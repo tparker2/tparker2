@@ -1,5 +1,5 @@
 ![MasterHead](https://www.smu.edu/-/media/Site/Cox/online-programs/blog/featured-images/graphical-representation-future-analytics.jpeg)
-<h1 align="center">👋 Hello, I'm Tia Parker - Clinical Analyst in the Making!</h1>
+<h1 align="center">👋 Hello, I'm Tia Parker - Data Analyst </h1>
 <h3 align="center">📊 Data Enthusiast | 🐍 Python | 💾 SQL | 📈 Visualisations | 📖 Data Reporting </h3>
 
 
