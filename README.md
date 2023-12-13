@@ -4,7 +4,7 @@
 
 
 ### Current Focus:
-- **Data Visualization:** Crafting compelling visual narratives with Power BI, Tableau, and ggplot2 in R to convey complex healthcare trends and patterns.
+- **Data Visualization:** Crafting compelling visual narratives with Power BI, Tableau, and ggplot2 in R to convey complex healthcare and public health trends and patterns.
 - **Python Mastery:** Developing proficiency in Python for efficient data manipulation, analysis, and integration within the healthcare context.
 - **SQL Expertise:** Enhancing SQL skills to efficiently query and manage healthcare databases and datasets, ensuring robust data extraction and analysis.
 
