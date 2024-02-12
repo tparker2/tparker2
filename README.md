@@ -4,9 +4,9 @@
 
 
 ### Current Focus:
-- **Data Visualization:** Crafting compelling visual narratives with Excel, Power BI, Tableau, and ggplot2 in R to convey complex healthcare and public health trends and patterns.
-- **Python Mastery:** Developing proficiency in Python for efficient data manipulation, analysis, and integration within the healthcare context.
-- **SQL Expertise:** Enhancing SQL skills to efficiently query and manage healthcare databases and datasets, ensuring robust data extraction and analysis.
+- **Data Visualisation:** Crafting compelling visual narratives with Excel, Power BI, Tableau, and ggplot2 in R to convey complex healthcare and public health trends and patterns.
+- **Python:** Developing proficiency in Python for efficient data manipulation, analysis, and integration within the healthcare context.
+- **SQL:** Enhancing SQL skills to efficiently query and manage healthcare databases and datasets, ensuring robust data extraction and analysis.
 
 ### Collaboration and Learning:
 - Actively seeking collaboration opportunities with fellow data enthusiasts, healthcare professionals, and experts in the field.
